@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148569413849",
+    "project_id": "ccro-3a550",
+    "storage_bucket": "ccro-3a550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148569413849:android:18a4c8956b97e31d1d46c8",
+        "android_client_info": {
+          "package_name": "com.ccro.rewards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDeZa3nPlp7qhmwFuVYj9vPHqNmmbd5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
